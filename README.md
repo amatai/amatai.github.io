@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+## Ajay Matai  &nbsp;[<img src="https://github.com/favicon.ico" width="20"/>](https://github.com/amatai)[<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a" width="25"/>](https://stackoverflow.com/users/1342137/ajay-m)
 
-You can use the [editor on GitHub](https://github.com/amatai/amatai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Highlights
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Passionate about code-quality, responsible and result-oriented Software Engineer with more than 20 years experience. Built web-scale level, 
+low-latency, highly distributed systems. Proficient working in both SaaS and embedded systems. Productive and adaptable to both remote and
+at-location environments.
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### [WootCloud Inc](https://www.wootcloud.com) (Sept 2017-Present)
+- 1st engineer, Cloud Architect, bootstrapped the technology stack for both Cloud and Appliance.
+- Helped build engineer team for all areas; Machine Learning, Wireless Radio, Systems Engineering, DevOps
+- Implemented process and best practices for code-quality, deployment, running sprints.
+- Implemented micro-services architechture and framework for Python and Golang.
+- Oversee all cloud services and DevOps activities.
+- Implemented appliance-cloud bi-directional always-connected communication.
+- Implemented customer facing REST API.
+- Integrated with various 3rd-party security applications, OpenVas, Airwatch, Jamf.
 
-```markdown
-Syntax highlighted code block
+Technologies: C/C++, Python, Golang, ElasticSearch, MongoDB, Kafka, Spark, AWS
 
-# Header 1
-## Header 2
-### Header 3
+#### [Mailgun](https://mailgun.com) & [Rackspace Hosting](https://www.rackspace.com) (Aug 2013 - Sept 2017)
+**Mailgun**
+- Helped design and make decision for overhaul of sending pipeline and improve scalability, reliability.
+- Improved the efficiency of the sending pipeline 1000x, which allowed the system to handle higher volume and provide better SLA.
+- Implemented a better metric collection system, that helped identify system inefficiencies and bottlenecks. Helped prioritize work.
+- Improved efficiency of message storage, reducing the required disk space by 3x, resulting in considerable cost savings.
 
-- Bulleted
-- List
+**Rackspace**
+- Implemented Intelligent Ticket Routing system, that involved developing rule engine, that would automate business rules applied to customer support tickets.
+- Improved the efficiency of ticket handling system 100x, saving considerable time for customer support engineers and improving their effectiveness.
 
-1. Numbered
-2. List
+Technologies: Python, Flask, Celery, MongoDB, Kafka, ElasticSearch, AWS
 
-**Bold** and _Italic_ and `Code` text
+#### Symform [(Acquired by Quantum)](http://blog.quantum.com/quantum-acquires-the-symform-cloud-storage-platform/#.W9YijHVKiV4) (May 2012 - July 2013)
+- Optimized cloud storage based on "hotness" of data, spreading blocks between peer-to-peer or traditional datacenter. Goal was to improve latency and hence customer satisfaction.
+- Implemented a system to do scoped deployments on selected NAS devices, which let Symform conduct controlled test, limited upgrades and deliver better quality.
+- Developed client-side debugging tools, which improved efficiency of customer support team.
 
-[Link](url) and ![Image](src)
-```
+Technologies: C#, MySQL
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### [Yahoo!](https://www.yahoo.com/)  (Apr 2011 - May 2012)
+- Developed Yahoo's next generation search serving platform, serving all of Yahoo search (text, image, video) across properties.
+- Led the transition of image & video search to new search API, maintaining backward compatability.
+- Helped customers and other Yahoo properties seamlessly transition to new search backend.
+- Move to new backend, integrated all search and helped Yahoo save maintaince cost, while improving the search quality and latency.
+- Helped save datacenter cost by reducing multicast traffic by transitioning to Zookeeper. This reduced the networking complexity. 
 
-### Jekyll Themes
+Technologies: C++, Boost
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amatai/amatai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### [Webroot](https://www.webroot.com/us/en)  (Jun 2010 - Apr 2011)
+- Developed and enhanced in-house built MTA (mail-transfer agent), to add features and improve functionality.
+- Designed the next-gen MTA that would scale by 20x as compared to existing solution, while adding the flexibility of being deployed at-prem or public cloud.
+- Integrated wth external APIs for content-inspection for DLP and offensive content.
 
-### Support or Contact
+Technologies: C++, Boost, MySQL
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### [CheckPoint](https://www.checkpoint.com/) (Aug 2000 - Jun 2010)
+- Led development of on-the-box Element Management System, for Nokia/Checkpoint Firewall/VPN appliances.
+- Implemented on-box monitoring solutions.
+- Implemented various element management functions: web-UI, CLI, SNMP. 
+
+
+### Skills
+**Languages**:  C/C++, Python, GoLang, C#
+**Frameworks**: Flask, Celery, Tornado, Nginx, Async-framework
+**Security**: PKI, SSL
+**Databases**: ElastiSearch, MongoDB, Redis, Sqlite
+**Tools**: Git, Jira, ELK, Jenkins, make, LEX/YACC, gdb,
+
+
+### Education
+MS Mathematics & Computer Science, Ohio University, Athens OH
+BTech Chemical Engineering, NIT Tricy, India
