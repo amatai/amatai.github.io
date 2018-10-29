@@ -63,13 +63,13 @@ Technologies: C++, Boost, MySQL
 
 
 ### Skills
-**Languages**:  C/C++, Python, GoLang, C#
-**Frameworks**: Flask, Celery, Tornado, Nginx, Async-framework
-**Security**: PKI, SSL
-**Databases**: ElastiSearch, MongoDB, Redis, Sqlite
-**Tools**: Git, Jira, ELK, Jenkins, make, LEX/YACC, gdb,
+- **Languages**:  C/C++, Python, GoLang, C#
+- **Frameworks**: Flask, Celery, Tornado, Nginx, Async-framework
+- **Security**: PKI, SSL
+- **Databases**: ElastiSearch, MongoDB, Redis, Sqlite
+- **Tools**: Git, Jira, ELK, Jenkins, make, LEX/YACC, gdb,
 
 
 ### Education
-MS Mathematics & Computer Science, Ohio University, Athens OH
-BTech Chemical Engineering, NIT Tricy, India
+- MS Mathematics & Computer Science, Ohio University, Athens OH
+- BTech Chemical Engineering, NIT Tricy, India
