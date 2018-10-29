@@ -10,10 +10,10 @@ at-location environments.
 
 #### [WootCloud Inc](https://www.wootcloud.com) (Sept 2017-Present)
 - 1st engineer, Cloud Architect, bootstrapped the technology stack for both Cloud and Appliance.
-- Helped build engineer team for all areas; Machine Learning, Wireless Radio, Systems Engineering, DevOps
-- Implemented process and best practices for code-quality, deployment, running sprints.
+- Helped build engineering team for all areas; Machine Learning, Wireless Radio, Systems Engineering, DevOps
+- Implemented processes and best practices for code-quality, deployments, sprint planning.
 - Implemented micro-services architechture and framework for Python and Golang.
-- Oversee all cloud services and DevOps activities.
+- Oversee development of all cloud services and DevOps activities.
 - Implemented appliance-cloud bi-directional always-connected communication.
 - Implemented customer facing REST API.
 - Integrated with various 3rd-party security applications, OpenVas, Airwatch, Jamf.
@@ -22,13 +22,13 @@ Technologies: C/C++, Python, Golang, ElasticSearch, MongoDB, Kafka, Spark, AWS
 
 #### [Mailgun](https://mailgun.com) & [Rackspace Hosting](https://www.rackspace.com) (Aug 2013 - Sept 2017)
 **Mailgun**
-- Helped design and make decision for overhaul of sending pipeline and improve scalability, reliability.
+- Designed and made decision to overhaul sending pipeline, improve scalability and reliability.
 - Improved the efficiency of the sending pipeline 1000x, which allowed the system to handle higher volume and provide better SLA.
 - Implemented a better metric collection system, that helped identify system inefficiencies and bottlenecks. Helped prioritize work.
 - Improved efficiency of message storage, reducing the required disk space by 3x, resulting in considerable cost savings.
 
 **Rackspace**
-- Implemented Intelligent Ticket Routing system, that involved developing rule engine, that would automate business rules applied to customer support tickets.
+- Implemented Intelligent Ticket Routing system, that involved developing rule engine, automated business rules applied to customer support tickets.
 - Improved the efficiency of ticket handling system 100x, saving considerable time for customer support engineers and improving their effectiveness.
 
 Technologies: Python, Flask, Celery, MongoDB, Kafka, ElasticSearch, AWS
