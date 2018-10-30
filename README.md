@@ -1,4 +1,5 @@
-## Ajay Matai  &nbsp;[<img src="https://github.com/favicon.ico" width="20"/>](https://github.com/amatai)[<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a" width="25"/>](https://stackoverflow.com/users/1342137/ajay-m)
+## Ajay Matai  &nbsp;[<img src="https://github.com/favicon.ico" width="20"/>](https://github.com/amatai)[<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a" width="25"/>](https://stackoverflow.com/users/1342137/ajay-m) <br/>
+`amatai at gmail dot com`
 
 ### Highlights
 
@@ -73,3 +74,4 @@ Technologies: C++, Boost, MySQL
 ### Education
 - MS Mathematics & Computer Science, Ohio University, Athens OH
 - BTech Chemical Engineering, NIT Tricy, India
+
