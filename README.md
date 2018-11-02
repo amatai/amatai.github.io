@@ -45,15 +45,15 @@ Technologies: C#, MySQL
 - Developed Yahoo's next generation search serving platform, serving all of Yahoo search (text, image, video) across properties.
 - Led the transition of image & video search to new search API, maintaining backward compatability.
 - Helped customers and other Yahoo properties seamlessly transition to new search backend.
-- Move to new backend, integrated all search and helped Yahoo save maintaince cost, while improving the search quality and latency.
+- Move to new backend, integrated all search and helped Yahoo save maintenance cost, while improving the search quality and latency.
 - Helped save datacenter cost by reducing multicast traffic by transitioning to Zookeeper. This reduced the networking complexity. 
 
 Technologies: C++, Boost
-
+ 
 #### [Webroot](https://www.webroot.com/us/en)  (Jun 2010 - Apr 2011)
 - Developed and enhanced in-house built MTA (mail-transfer agent), to add features and improve functionality.
 - Designed the next-gen MTA that would scale by 20x as compared to existing solution, while adding the flexibility of being deployed at-prem or public cloud.
-- Integrated wth external APIs for content-inspection for DLP and offensive content.
+- Integrated with external APIs for content-inspection for DLP and offensive content.
 
 Technologies: C++, Boost, MySQL
 
@@ -67,7 +67,7 @@ Technologies: C++, Boost, MySQL
 - **Languages**:  C/C++, Python, GoLang, C#
 - **Frameworks**: Flask, Celery, Tornado, Nginx, Async-framework
 - **Security**: PKI, SSL
-- **Databases**: ElastiSearch, MongoDB, Redis, Sqlite
+- **Databases**: ElasticSearch, MongoDB, Redis, Sqlite
 - **Tools**: Git, Jira, ELK, Jenkins, make, LEX/YACC, gdb,
 
 
