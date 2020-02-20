@@ -12,6 +12,7 @@ This is really easy to do with helper command available in [`virtualenvwrapper`]
 All, I do is `mktmpenv -p /usr/bin/python3.7` and I get a virtualenv that will automatically be removed when the virtualenv is deactivated.
 
 
+{% gist 8c13486782c4fb402dda7eb8e28be00d %}
 {% highlight shell %}
 $ mktmpenv -p `which python3.7`        
 Running virtualenv with interpreter /usr/bin/python3.7
