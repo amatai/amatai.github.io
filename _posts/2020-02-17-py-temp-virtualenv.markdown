@@ -13,17 +13,5 @@ All, I do is `mktmpenv -p /usr/bin/python3.7` and I get a virtualenv that will a
 
 
 {% gist 8c13486782c4fb402dda7eb8e28be00d %}
-{% highlight shell %}
-$ mktmpenv -p `which python3.7`        
-Running virtualenv with interpreter /usr/bin/python3.7
-Using base prefix '/usr'
-/usr/lib/python3/dist-packages/virtualenv.py:1086: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
-  import imp
-New python executable in /home/ajay/.virtualenvs/tmp-bf135004fa2bf83f/bin/python3.7
-Also creating executable in /home/ajay/.virtualenvs/tmp-bf135004fa2bf83f/bin/python
-Installing setuptools, pkg_resources, pip, wheel...done.
-This is a temporary environment. It will be deleted when you run 'deactivate'.
-(tmp-bf135004fa2bf83f) [~/.virtualenvs/tmp-bf135004fa2bf83f]$ 
-{% endhighlight %}
 
 [virtualenv]: https://pypi.org/project/virtualenvwrapper/
