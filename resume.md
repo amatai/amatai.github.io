@@ -1,4 +1,4 @@
-## Ajay Matai  &nbsp;[<img src="https://github.com/favicon.ico" width="20"/>](https://github.com/amatai)[<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a" width="25"/>](https://stackoverflow.com/users/1342137/ajay-m) <br/>
+## Ajay Matai  &nbsp;[<img src="https://github.com/favicon.ico" width="20"/>](https://github.com/amatai) | [<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a" width="25"/>](https://stackoverflow.com/users/1342137/ajay-m) | [<img src="https://linkedin.com/favicon.ico" width="20"/>](https://www.linkedin.com/in/ajaymatai)<br/>
 `amatai at gmail dot com`
 
 ### Highlights
